@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Green Thumb</string>
+    <string name="app_header">Choose a Plant</string>
 </resources>
